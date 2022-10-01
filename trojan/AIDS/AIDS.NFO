@@ -1,0 +1,179 @@
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³                                                                             ³
+³                    This Virus Came To You By Way Of...                      ³
+³                                                                             ³
+³         ÜÛÛÛÛÛÛÛÜ       ÜÛÛÛÛÛÛÛÛÜ        ÜÛÜ        ÜÛÛÛÛÛÛÛÜ              ³
+³        ÛÛÛÛß  ßÛÛÛ      ÛÛÛß   ßÛÛÛ      ÛÛÛÛÛ      ÛÛÛÛß ßÛÛÛÛ             ³
+³        ÛÛÛÛ             ÛÛÛÜ   ÜÛÛÛ      ÛÛÛÛÛ      ßÛÛÛÛÛÜÜ                ³
+³        ÛÛÛÛ             ÛÛÛÛÛÛÛÛÛß       ÛÛÛÛÛ         ßßÛÛÛÛÛÜ             ³
+³        ÛÛÛÛÜ  ÜÛÛÛ ÜÛÛÜ ÛÛÛÛ ßÛÛÛÛÜ ÜÛÛÜ ÛÛÛÛÛ ÜÛÛÜ ÛÛÛÛÜ ÜÛÛÛÛ ÜÛÛÜ        ³
+³         ßÛÛÛÛÛÛÛß  ßÛÛß ßÛÛß   ßÛÛß ßÛÛß  ßÛß  ßÛÛß  ßÛÛÛÛÛÛÛß  ßÛÛß        ³
+³                                                                             ³
+³                                                                             ³
+³                  Computer Research & Information Service                    ³
+³                                                                             ³
+³                                                                             ³
+³       Cris is a group of computer users that have a true interest in        ³
+³       Computer Viruses and Trojans, as well as how they work.               ³
+³                                                                             ³
+³       Members of Cris feel a need, not only to be up on the latest          ³
+³       Bombs, Trojans, Worms, and Viruses, but to safely transfer these      ³
+³       files into the hands of other dedicated researchers.                  ³
+³                                                                             ³
+³       Cris cannot be held responsible for the use or misuse of these        ³
+³       files.  Cris releases are sent out to better the knowledge of the     ³
+³       virus community, for those who would like to learn more about them    ³
+³       and how they work.                                                    ³
+³                                                                             ³
+³       Also, all Cris releases have been pre-tested and informative text     ³
+³       files are enclosed with valuable information regarding the type of    ³
+³       virus, how it works, and removal information.  If the virus you       ³
+³       downloaded is not a Cris release, you don't know what you've got.     ³
+³                                                                             ³
+³       Nephili                                                               ³
+³       (Original Text Written By File God)                                   ³
+³                                                                             ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³Cris Release Date: 7/13/93             Researcher: Nephili                   ³
+³Type: Virus                                                                  ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ VSUM Information                                                            ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³                                                                             ³
+³ Virus Name:     AIDS                                                        ³
+³                                                                             ³
+³ Aliases:        Hahaha, Taunt, VGA2CGA, Burger.Pascal                       ³
+³                                                                             ³
+³ Vsum Status:    Viron                                                       ³
+³                                                                             ³
+³ Discovery:      1989                                                        ³
+³                                                                             ³
+³ Symptoms:       Message display, .COM file corruption                       ³
+³                                                                             ³
+³ Origin:         Unknown                                                     ³
+³                                                                             ³
+³ Eff Length:     Not Applicable (Overwriting)                                ³
+³                                                                             ³
+³ Type Code:      ONA - Overwriting Non-Resident .COM & .EXE Infector         ³
+³                                                                             ³
+³ Detection Method:       McAfee's ViruScan, CPAV, NAV, F-Prot                ³
+³                                                                             ³
+³ Removal Instructions:   Delete infected .COM files                          ³
+³                                                                             ³
+³ General Comments:                                                           ³
+³                                                                             ³
+³       The AIDS virus, also known as the Hahaha virus in Europe and          ³
+³       referred to as the Taunt virus by IBM, is a generic .COM and          ³
+³       .EXE file infector.  When the virus activates, it displays the        ³
+³       message "Your computer now has AIDS", with AIDS covering about        ³
+³       half of the screen.  The system is then halted, and must be           ³
+³       powered down and rebooted to restart it.  Since this virus            ³
+³       overwrites the first 13,952 bytes of the executable program, the      ³
+³       files must be deleted and replaced with clean copies in order to      ³
+³       remove the virus.  It is not possible to recover the overwritten      ³
+³       portion of the program.                                               ³
+³                                                                             ³
+³       Note: this is NOT the Aids Info Disk/PC Cyborg Trojan.                ³
+³                                                                             ³
+³       Known variant(s) of AIDS are:                                         ³
+³       AIDS B: Very similar to the original AIDS virus, this variant is      ³
+³               also 13,952 bytes in length.  Unlike the original virus, it   ³
+³               will only infect .COM files, as well as COMMAND.COM, and      ³
+³               does not activate as the original virus did.  Instead, this   ³
+³               variant will occasionally issue the following error message:  ³
+³               "I/O error 99, PC=2EFD Program aborted". This variant was     ³
+³               received in January, 1991, origin unknown.                    ³
+³       AIDS-1992: Isolated at several locations in the United States in      ³
+³               May, 1992, this variant of the AIDS virus has been altered to ³
+³               avoid detection by anti-viral utilities.  Among the changes   ³
+³               to the virus are that it will not infect files if there are   ³
+³               less than two subdirectories on the current drive.  System    ³
+³               hangs may occur when infected programs are executed, as well  ³
+³               as the system video mode may be switched to 25 x 40 Black &   ³
+³               White from color mode.                                        ³
+³               Origin:  United States  May, 1992.                            ³
+³                                                                             ³
+³       See:    Number One (Released By File God)                             ³
+³                                                                             ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Authors Comments / Information                                              ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ +-------------------------------+     +--------------------------------------+
+ |                               |  P  |                                      |
+ |  @@@@@@@  @@@@@@@@  @@@@@@@@  |  *  |   #####    #####    ####     #####   |
+ |  @@       @@    @@     @@     |  R  |   #   #      #      #   #    #       |
+ |  @@       @@    @@     @@     |  *  |   #####      #      #   #    #####   |
+ |  @@       @@@@@@@@     @@     |  E  |   #   #      #      #   #        #   |
+ |  @@       @@           @@     |  *  |   #   #    #####    ####     #####   |
+ |  @@       @@           @@     |  S  |                                      |
+ |  @@@@@@@  @@        @@@@@@@@  |  *  +--------------------------------------+
+ |                               |  E  |     A NEW AND IMPROVED VIRUS FOR     |
+ +-------------------------------+  *  |          PC/MS DOS MACHINES          |
+ |       C O R R U P T E D       |  N  +--------------------------------------+
+ |                               |  *  |     CREATED BY: DOCTOR DISSECTOR     |
+ |     P R O G R A M M I N G     |  T  |FILE INTENDED FOR EDUCATIONAL USE ONLY|
+ |                               |  *  |  AUTHOR NOT RESPONSIBLE FOR READERS  |
+ |   I N T E R N A T I O N A L   |  S  |DOES NOT ENDORSE ANY ILLEGAL ACTIVITYS|
+ +-------------------------------+     +--------------------------------------+
+
+ Well well, here it is... I call it AIDS... It infects all COM files, but it is
+ not perfect, so it will also change the date/time stamp to the current system.
+ Plus, any READ-ONLY attributes will ward this virus off, it doesn't like them!
+
+ Anyway, this virus was originally named NUMBER ONE, and I modified the code so
+ that it would fit my needs. The source code, which is included with this neato
+ package was written in Turbo Pascal 3.01a. Yeah I know it's old, but it works.
+
+ Well, I added a few things, you can experiment or mess around with it if you'd
+ like to, and add any mods to it that you want, but change the name and give us
+ some credit if you do.
+
+ The file is approximately 13k long, and this extra memory will be added to the
+ file it picks as host. If no more COM files are to be found, it picks a random
+ value from 1-10, and if it happens to be the lucky number 7, AIDS will present
+ a nice screen with lots of smiles, with a note telling the operator that their
+ system is now screwed, I mean permanantly. The files encrypted containing AIDS
+ in their code are IRREVERSIBLY messed up. Oh well...
+
+ Again, neither CPI nor the author of Number One or AIDS endorses this document
+ and program for use in any illegal manner. Also, CPI, the author to Number One
+ and AIDS is not responsible for any actions by the readers that may prove harm
+ in any way or another. This package was written for EDUCATIONAL purposes only!
+      
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Scanning Results                                                            ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³                                                                             ³
+³John's ViruScan Reports            -    [N1] Virus                           ³
+³       FILE HAD TO BE DELETED                                                ³
+³Pete's (Norton) Antivirus Reports  -    This file contains a strain of Aids. ³
+³       FILE HAD TO BE DELETED                                                ³
+³CPAV Reports                       -    Aids                                 ³
+³       FILE HAD TO BE DELETED                                                ³
+³                                                                             ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Researcher's Notes                                                          ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³                                                                             ³
+³To be completely honest I really didn't want to test this file because of its³
+³primitive qualities.  I'm sure that the author has grown somewhat in the past³
+³few years but this virus really blows.  A large (Pascal) overwriting COM     ³
+³infector?  Miniscule & Tiny are better than this and they're under 100 bytes.³
+³Also, why waste so much room with the damn ugly message.  To make it worse,  ³
+³the author is cocky about his great creation.  Aids can't handle read only   ³
+³attributes either.  I realize that this is an old virus, but that could have ³
+³easily been taken care of.  All three of the most popular virus scanners had ³
+³no problem finding it.  As it is an overwriting virus, however, the file had ³
+³to be deleted to be "clean".  I've seen batch files that are more dangerous  ³
+³this.                                                                        ³
+³                               Nephili                                       ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ

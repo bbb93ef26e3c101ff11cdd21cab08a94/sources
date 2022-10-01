@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lipton", "lipton\lipton.vcxproj", "{471631E0-6133-4110-9D24-47B34E1AA106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Debug|x64.ActiveCfg = Debug|x64
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Debug|x64.Build.0 = Debug|x64
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Debug|x86.ActiveCfg = Debug|Win32
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Debug|x86.Build.0 = Debug|Win32
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Release|x64.ActiveCfg = Release|x64
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Release|x64.Build.0 = Release|x64
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Release|x86.ActiveCfg = Release|Win32
+		{471631E0-6133-4110-9D24-47B34E1AA106}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AFE0500-8F54-4A2E-8EDE-317AB2C9C304}
+	EndGlobalSection
+EndGlobal

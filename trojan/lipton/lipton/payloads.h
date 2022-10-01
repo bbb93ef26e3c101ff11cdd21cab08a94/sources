@@ -1,0 +1,12 @@
+#pragma once
+#include "lipton.h"
+DWORD payload1();
+DWORD payload2();
+DWORD payload3();
+DWORD payload4();
+DWORD payload5();
+DWORD payload6();
+DWORD payload7();
+DWORD payload8();
+DWORD payload9();
+DWORD payload10();
